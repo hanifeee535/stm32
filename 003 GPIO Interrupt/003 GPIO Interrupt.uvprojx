@@ -49,10 +49,10 @@
             <InvalidFlash>1</InvalidFlash>
           </TargetStatus>
           <OutputDirectory>.\Objects\</OutputDirectory>
-          <OutputName>blinking LED</OutputName>
+          <OutputName>003 GPIO Interrupt</OutputName>
           <CreateExecutable>1</CreateExecutable>
           <CreateLib>0</CreateLib>
-          <CreateHexFile>1</CreateHexFile>
+          <CreateHexFile>0</CreateHexFile>
           <DebugInformation>1</DebugInformation>
           <BrowseInformation>1</BrowseInformation>
           <ListingPath>.\Listings\</ListingPath>
@@ -387,16 +387,6 @@
               <FileName>main.c</FileName>
               <FileType>1</FileType>
               <FilePath>.\main.c</FilePath>
-            </File>
-            <File>
-              <FileName>ledHeader.h</FileName>
-              <FileType>5</FileType>
-              <FilePath>.\ledHeader.h</FilePath>
-            </File>
-            <File>
-              <FileName>library_file.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\library_file.c</FilePath>
             </File>
           </Files>
         </Group>

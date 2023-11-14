@@ -1,3 +1,19 @@
+/*
+Author: MD. Soyabbir Abu Hanif;
+Institution: Tampere University, Finland;
+Program name: MSc in Embedded Systems;
+Email: hanifseceee535@gmail.com ;
+*/
+
+/*
+Hardware setup:
+								output = PC13
+								Input = PA 0; 
+Algorithm:
+								Input button is pressed => LED will start blinking;
+
+*/
+
 #include <stdint.h>
 #include"library_header.h"
 
